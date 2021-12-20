@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<HTML>
+	<BODY>
+		<h1> Lista ordenada </h1>
+		<OL>
+			<LI> Cambur </LI>
+			<LI> Fresa </LI>
+			<LI> Piña </LI>
+			<LI> Manzana </LI>
+		</OL>
+		<DIV>
+		<h1> Lista desordenada </h1>
+			<UL>
+				<LI> Cambur </LI>
+				<LI> Fresa </LI>
+				<LI> Piña </LI>
+				<LI> Manzana </LI>
+			</UL>
+		</DIV>
+	</BODY>
+</HTML>
